@@ -1,14 +1,11 @@
 ---
 title: "Urban Botany: How to Identify Plants Growing Through Sidewalk Cracks"
-description: 
+description: Because nature doesn’t care about your concrete.
 authors:
   - oliver-james
 date: 2025-06-03
 image:
 ---
-
-_Because nature doesn’t care about your concrete._
-
 Cities are loud, structured, and built for speed — but look down, and you’ll find a different kind of resistance unfolding beneath your feet. In sidewalk cracks, empty lots, and neglected corners, plants are quietly making their presence known.
 
 Urban botany is the practice of noticing this overlooked green life — the wild, scrappy plants that thrive where they’re not _supposed_ to. They're not planted or pampered. They just grow.

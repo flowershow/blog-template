@@ -1,18 +1,18 @@
 {
-  "showSidebar": true
+  "showSidebar": true,
   "nav": {
     "logo": "logo.png",
-    "title": "Rooted & Wild"
+    "title": "Rooted & Wild",
     "links": [
       {
         "href": "/blog",
         "name": "Blog Posts"
       },
       {
-        "href": "About",
+        "href": "/about",
         "name": "About"
       }
-    ]
+    ],
     "social": [
       {
         "label": "github",

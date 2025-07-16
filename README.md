@@ -1,3 +1,7 @@
+---
+layout: plain
+---
+
 <section className="py-24">
   <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <h2 className="font-manrope text-4xl font-bold text-gray-900 text-center mb-16">

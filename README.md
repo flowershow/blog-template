@@ -1,5 +1,6 @@
 ---
 layout: plain
+showToc: "false"
 ---
 
 <section className="py-24">

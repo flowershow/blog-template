@@ -1,3 +1,29 @@
 {
   "showSidebar": true
+  "nav": {
+    "logo": "logo.png",
+    "title": "Rooted & Wild"
+    "links": [
+      {
+        "href": "/blog",
+        "name": "Blog Posts"
+      },
+      {
+        "href": "About",
+        "name": "About"
+      }
+    ]
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/flowershow/flowershow"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on Twitter",
+        "href": "https://x.com/flowershowapp"
+      }
+    ]
+  }
 }

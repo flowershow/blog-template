@@ -1,7 +1,7 @@
 {
   "showSidebar": true,
   "nav": {
-    "logo": "logo.png",
+    "logo": "/assets/logo.png",
     "title": "Rooted & Wild",
     "links": [
       {

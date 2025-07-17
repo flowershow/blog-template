@@ -5,7 +5,7 @@ date: 2025-03-15
 image: /assets/wild-flowers.jpg
 authors:
   - oliver-james
-showHero: "true"
+showHero: "false"
 ---
 
 A gentle guide to the small, stubborn beauties blooming underfoot

@@ -2,7 +2,7 @@
 title: The Ultimate Guide to Watering — It’s Not Just About the Schedule
 description: Because plants don’t wear watches, and neither should your watering can
 date: 2025-05-28
-image: 
+image: /assets/watering.jpg
 authors:
   - oliver-james
 ---

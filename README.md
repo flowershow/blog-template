@@ -18,14 +18,14 @@ showToc: "false"
           />
         </div>
         <div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
-          <span className="text-indigo-600 font-medium mb-3 block">Jan 01, 2023</span>
+          <span className="text-lime-600 font-medium mb-3 block">Jan 01, 2023</span>
           <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">
             Clever ways to invest in product to organize your portfolio
           </h4>
           <p className="text-gray-500 leading-6 mb-10">
             Discover smart investment strategies to streamline and organize your portfolio..
           </p>
-          <a href="#" className="cursor-pointer text-lg text-indigo-600 font-semibold">
+          <a href="#" className="cursor-pointer text-lg text-lime-600 font-semibold">
             Read more..
           </a>
         </div>
@@ -41,14 +41,14 @@ showToc: "false"
           />
         </div>
         <div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
-          <span className="text-indigo-600 font-medium mb-3 block">Feb 01, 2023</span>
+          <span className="text-lime-600 font-medium mb-3 block">Feb 01, 2023</span>
           <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">
             How to grow your profit through systematic investment with us
           </h4>
           <p className="text-gray-500 leading-6 mb-10">
             Unlock the power of systematic investment with us and watch your profits soar. Our..
           </p>
-          <a href="#" className="cursor-pointer text-lg text-indigo-600 font-semibold">
+          <a href="#" className="cursor-pointer text-lg text-lime-600 font-semibold">
             Read more..
           </a>
         </div>
@@ -64,14 +64,14 @@ showToc: "false"
           />
         </div>
         <div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
-          <span className="text-indigo-600 font-medium mb-3 block">Mar 01, 2023</span>
+          <span className="text-lime-600 font-medium mb-3 block">Mar 01, 2023</span>
           <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">
             How to analyze every holdings of your portfolio
           </h4>
           <p className="text-gray-500 leading-6 mb-10">
             Our comprehensive guide will equip you with the tools and insights needed to..
           </p>
-          <a href="#" className="cursor-pointer text-lg text-indigo-600 font-semibold">
+          <a href="#" className="cursor-pointer text-lg text-lime-600 font-semibold">
             Read more..
           </a>
         </div>

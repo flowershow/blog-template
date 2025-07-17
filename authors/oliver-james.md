@@ -1,6 +1,6 @@
 ---
 title: Oliver James
-avatar: oliver-james-photo.png
+avatar: /authors/oliver-james-photo.png
 ---
 Hi, I’m **Oliver James** — botanist, writer, and lifelong plant enthusiast.
 

@@ -1,4 +1,4 @@
-# Navigation Bar
+/* Change the background color of the whole site */
 nav.z-10.bg-inherit.text-base.font-normal.shadow-sm.sticky.top-0 {
     background-color: #65a30c;
 }

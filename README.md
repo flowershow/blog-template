@@ -12,8 +12,8 @@ showToc: "false"
       <div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
         <div className="flex items-center">
           <img
-            src="https://pagedone.io/asset/uploads/1696244317.png"
-            alt="blogs tailwind section"
+            src="https://github.com/flowershow/blog-template/blob/main/assets/pexels-karolina-grabowska-4750274.jpg?raw=true"
+            alt="watering"
             className="rounded-t-2xl w-full object-cover"
           />
         </div>

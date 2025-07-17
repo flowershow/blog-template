@@ -2,7 +2,7 @@
 title: Beginner’s Guide to Cross-Pollinating Houseplants
 description: Because your plants have romantic potential too.
 date: 2025-02-17
-image: 
+image: /assets/sprout-2.jpg
 authors:
   - oliver-james
 ---

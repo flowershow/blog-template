@@ -12,7 +12,7 @@ showToc: "false"
       <div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
         <div className="flex items-center">
           <img
-            src="https://github.com/flowershow/blog-template/blob/main/assets/pexels-karolina-grabowska-4750274.jpg?raw=true"
+            src="/@blackberry-garance/blog-template/_r/-/assets/pexels-karolina-grabowska-4750274.jpg"
             alt="watering"
             className="rounded-t-2xl w-full object-cover"
           />
@@ -58,7 +58,7 @@ showToc: "false"
       <div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
         <div className="flex items-center">
           <img
-            src="https://github.com/flowershow/blog-template/blob/main/assets/wild-flowers.jpg?raw=true"
+            src="/@blackberry-garance/blog-template/_r/-/assets/wild-flowers.jpg"
             alt="wild flowers"
             className="rounded-t-2xl w-full object-cover"
           />

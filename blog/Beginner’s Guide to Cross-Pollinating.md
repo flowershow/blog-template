@@ -5,6 +5,7 @@ date: 2025-02-17
 image: /assets/sprout-2.jpg
 authors:
   - oliver-james
+showHero: "true"
 ---
 
 Cross-pollination sounds like something that only happens in orchards or greenhouses — but even in your living room, houseplants are capable of a little love story of their own.

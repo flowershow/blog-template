@@ -5,6 +5,7 @@ date: 2025-01-26
 image: /assets/repotting.jpg
 authors:
   - oliver-james
+showHero: "true"
 ---
 
 Repotting is one of those things that sounds simple — until you're elbow-deep in soil, your plant is flopping sideways, and your floor looks like a small forest exploded. But don’t worry. With a little prep (and a deep breath), you _can_ repot without panic — and your Monstera will thank you for it.

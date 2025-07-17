@@ -13,7 +13,7 @@ showToc: "false"
       <div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
         <div className="flex items-center">
           <img
-            src="/assets/repotting.jpg"
+            src="https://github.com/flowershow/blog-template/blob/dbe5ba4f0592e8947e2d798be7aa8d49126eab3c/assets/pexels-karolina-grabowska-4750274.jpg"
             alt="blogs tailwind section"
             className="rounded-t-2xl w-full object-cover"
           />

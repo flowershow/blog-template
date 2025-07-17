@@ -13,7 +13,7 @@ showToc: "false"
       <div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
         <div className="flex items-center">
           <img
-            src="/assets/forest.jpg"
+            src="/_r/-/assets/forest.jpg"
             alt="forest"
             className="rounded-t-2xl w-full object-cover"
           />

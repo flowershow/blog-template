@@ -5,6 +5,7 @@ authors:
   - oliver-james
 date: 2025-06-03
 image: /assets/urban-botany.jpg
+showHero: "true"
 ---
 Cities are loud, structured, and built for speed — but look down, and you’ll find a different kind of resistance unfolding beneath your feet. In sidewalk cracks, empty lots, and neglected corners, plants are quietly making their presence known.
 

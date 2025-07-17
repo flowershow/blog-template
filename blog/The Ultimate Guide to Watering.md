@@ -5,6 +5,7 @@ date: 2025-05-28
 image: /assets/pexels-karolina-grabowska-4750274.jpg
 authors:
   - oliver-james
+showHero: "true"
 ---
 Watering seems simple — and that’s exactly why it trips people up. We’re taught to follow schedules: “Water once a week,” “Every Tuesday,” “When the top inch is dry.” But the truth is, watering isn’t about routines. It’s about relationships.
 

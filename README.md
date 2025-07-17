@@ -25,7 +25,7 @@ showToc: "false"
           <p className="text-gray-500 leading-6 mb-10">
             Because nature doesn’t care about your concrete.
           </p>
-          <a href="#" className="cursor-pointer text-lg text-lime-600 font-semibold">
+          <a href="/@blackberry-garance/blog-template/_r/-/blog/Urban Botany.md" className="cursor-pointer text-lg text-lime-600 font-semibold">
             Read more..
           </a>
         </div>

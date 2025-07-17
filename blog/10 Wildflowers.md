@@ -2,7 +2,7 @@
 title: 10 Wildflowers You’re Walking Past Without Noticing
 description: 10 wildflowers hiding in plain sight — learn their names and start noticing the beauty blooming underfoot.
 date: 2025-03-15
-image: 
+image: /assets/wild-flowers.jpg
 authors:
   - oliver-james
 ---

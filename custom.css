@@ -1,4 +1,4 @@
-/* Change the background color of the whole site */
-nav {
+/* Navbar */
+.mx-auto.px-4.text-sm {
     background-color: #65a30c;
 }

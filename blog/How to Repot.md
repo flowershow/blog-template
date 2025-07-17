@@ -2,7 +2,7 @@
 title: How to Repot Without Losing Your Mind (or Your Monstera)
 description: It’s dirt. It’s chaos. It’s fine. We’re doing this together
 date: 2025-01-26
-image: 
+image: /assets/repotting.jpg
 authors:
   - oliver-james
 ---

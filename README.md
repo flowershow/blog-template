@@ -59,8 +59,8 @@ showToc: "false"
       <div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
         <div className="flex items-center">
           <img
-            src="/_r/-/assets/wild-flowers.jpg"
-            alt="blogs tailwind section"
+            src="https://github.com/flowershow/blog-template/blob/44621b4121506f04dc019610434fc5169576ee0b/assets/wild-flowers.jpg"
+            alt="wild flowers"
             className="rounded-t-2xl w-full object-cover"
           />
         </div>

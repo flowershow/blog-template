@@ -23,7 +23,7 @@ showToc: "false"
 
 </div>
 
-<div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
+<div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-[#DAD6B0]">
 
 <span className="text-[#A2A454] font-medium mb-3 block">Jun 03, 2025</span>
 
@@ -49,7 +49,7 @@ showToc: "false"
 
 </div>
 
-<div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
+<div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-[#DAD6B0]">
 
 <span className="text-[#A2A454] font-medium mb-3 block">May 28, 2025</span>
 
@@ -75,7 +75,7 @@ showToc: "false"
 
 </div>
 
-<div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
+<div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-[#DAD6B0]">
 
 <span className="text-[#A2A454] font-medium mb-3 block">Mar 15, 2025</span>
 

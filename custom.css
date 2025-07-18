@@ -1,4 +1,9 @@
-/* Navbar */
+/* Green Navbar */
 .mx-auto.px-4.text-sm {
-    background-color: #65a30c;
+    background-color: #a2a454;
+}
+
+/* Changes background to beige */
+.bg-background {
+    background: #f9f2e2 !important;
 }

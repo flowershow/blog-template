@@ -2,25 +2,21 @@
 layout: plain
 showToc: "false"
 ---
-<section className="relative w-full min-h-screen bg-[#A2A454] flex items-center justify-center px-6 py-16 overflow-hidden">
-  {/* Custom full background image */}
+<section className="relative w-full min-h-screen flex items-center justify-center px-6 py-16 overflow-hidden">
   <div className="absolute inset-0">
-    <img src="/@blackberry-garance/blog-template/_r/-/assets/background-1.jpg" alt="Background" className="w-full h-full object-cover" />
+    <img src="/@blackberry-garance/blog-template/_r/-/assets/background-1.jpg" alt="Background" class="w-full h-full object-cover" />
   </div>
 
-  {/* Main content */}
   <div className="relative z-20 max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-8 text-black">
-    {/* Left quote */}
     <div className="md:col-span-1 text-center md:text-left flex items-center justify-center">
       <p className="text-lg leading-relaxed max-w-sm">Botany isn’t loud. It doesn’t crash or flash. It waits. It teaches you to observe slowly — to notice the curve of a leaf, the way roots reach without eyes, the language of color in petals. In a world rushing to be noticed, plants ask nothing. And yet, they offer everything.</p>
     </div>
 
-    {/* Center title */}
     <div className="md:col-span-1 flex flex-col items-center justify-center text-center">
-      <h1 className="text-5xl font-extrabold">Rooted & Wild</h1>
+      <h1 className="text-5xl font-extrabold">Rooted &</h1>
+      <h1 className="text-5xl font-extrabold">Wild</h1>
     </div>
 
-    {/* Right quote */}
     <div className="md:col-span-1 text-center md:text-right flex items-center justify-center">
       <p className="text-lg leading-relaxed max-w-sm">In the cracks of pavement and along forgotten fences, plants grow anyway. They don’t need perfect conditions — just space, light, and a little time. Botany reminds us that life adapts. Even when ignored, green things find a way to bloom.</p>
     </div>

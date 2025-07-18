@@ -15,7 +15,7 @@ showToc: "false"
 
 {/* Blog Card 1 */}
 
-<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
+<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl">
 
 <div className="flex items-center">
 
@@ -41,7 +41,7 @@ showToc: "false"
 
 {/* Blog Card 2 */}
 
-<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
+<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl">
 
 <div className="flex items-center">
 
@@ -67,7 +67,7 @@ showToc: "false"
 
 {/* Blog Card 3 */}
 
-<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-gray-300 rounded-2xl">
+<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl">
 
 <div className="flex items-center">
 

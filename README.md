@@ -23,6 +23,7 @@ showToc: "false"
       <p className="text-lg leading-relaxed max-w-sm">In the cracks of pavement and along forgotten fences, plants grow anyway. They don’t need perfect conditions — just space, light, and a little time. Botany reminds us that life adapts. Even when ignored, green things find a way to bloom.</p>
     </div>
   </div>
+  <button onClick="{()" ="">{ document.getElementById("articles").scrollIntoView({ behavior: "smooth" }); }} className="mt-8 px-6 py-3 bg-[#A2A454] text-white font-semibold rounded-xl hover:bg-[#8c8b42] transition-colors duration-300">Scroll to Articles</button>
 </section>
 
 <section className="py-24">

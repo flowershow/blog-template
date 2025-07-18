@@ -43,51 +43,58 @@ showToc: "false"
 
 {/* Blog Card 2 */}
 
-<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl">
+<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl transition-all duration-300 hover:bg-[#DAD6B0]">
 
-<div className="flex items-center">
+  <div className="flex items-center">
+    <img
+      src="/@blackberry-garance/blog-template/_r/-/assets/pexels-karolina-grabowska-4750274.jpg"
+      alt="watering"
+      className="rounded-t-2xl w-full object-cover"
+    />
+  </div>
 
-<img src="/@blackberry-garance/blog-template/_r/-/assets/pexels-karolina-grabowska-4750274.jpg" alt="watering" className="rounded-t-2xl w-full object-cover" />
+  <div className="p-4 lg:p-6 rounded-b-2xl">
+    <span className="text-[#A2A454] font-medium mb-3 block">May 28, 2025</span>
+    <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">
+      The Ultimate Guide to Watering — It’s Not Just About the Schedule
+    </h4>
+    <p className="text-gray-500 leading-6 mb-10">
+      Because plants don’t wear watches, and neither should your watering can.
+    </p>
+    <a href="#" className="cursor-pointer text-lg text-[#A2A454] font-semibold">
+      Read more..
+    </a>
+  </div>
 
 </div>
 
-<div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-[#DAD6B0]">
-
-<span className="text-[#A2A454] font-medium mb-3 block">May 28, 2025</span>
-
-<h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">The Ultimate Guide to Watering — It’s Not Just About the Schedule</h4>
-
-<p className="text-gray-500 leading-6 mb-10">Because plants don’t wear watches, and neither should your watering can.</p>
-
-<a href="#" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
-
-</div>
-
-</div>
 
   
 
 {/* Blog Card 3 */}
 
-<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl">
+<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl transition-all duration-300 hover:bg-[#DAD6B0]">
 
-<div className="flex items-center">
+  <div className="flex items-center">
+    <img
+      src="/@blackberry-garance/blog-template/_r/-/assets/wild-flowers.jpg"
+      alt="wild flowers"
+      className="rounded-t-2xl w-full object-cover"
+    />
+  </div>
 
-<img src="/@blackberry-garance/blog-template/_r/-/assets/wild-flowers.jpg" alt="wild flowers" className="rounded-t-2xl w-full object-cover" />
-
-</div>
-
-<div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-[#DAD6B0]">
-
-<span className="text-[#A2A454] font-medium mb-3 block">Mar 15, 2025</span>
-
-<h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">10 Wildflowers You’re Walking Past Without Noticing</h4>
-
-<p className="text-gray-500 leading-6 mb-10">10 wildflowers hiding in plain sight — learn their names and start noticing the beauty blooming underfoot.</p>
-
-<a href="#" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
-
-</div>
+  <div className="p-4 lg:p-6 rounded-b-2xl">
+    <span className="text-[#A2A454] font-medium mb-3 block">Mar 15, 2025</span>
+    <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">
+      10 Wildflowers You’re Walking Past Without Noticing
+    </h4>
+    <p className="text-gray-500 leading-6 mb-10">
+      10 wildflowers hiding in plain sight — learn their names and start noticing the beauty blooming underfoot.
+    </p>
+    <a href="#" className="cursor-pointer text-lg text-[#A2A454] font-semibold">
+      Read more..
+    </a>
+  </div>
 
 </div>
 

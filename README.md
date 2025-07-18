@@ -2,29 +2,52 @@
 layout: plain
 showToc: "false"
 ---
-<section className="relative w-full min-h-screen flex items-center justify-center px-6 py-16 overflow-hidden">
+<section className="relative w-full min-h-screen flex flex-col items-center justify-center px-6 py-16 overflow-hidden">
+  {/* Background image */}
   <div className="absolute inset-0">
-    <img src="/@blackberry-garance/blog-template/_r/-/assets/background-1.jpg" alt="Background" class="w-full h-full object-cover" />
+    <img
+      src="/@blackberry-garance/blog-template/_r/-/assets/background-1.jpg"
+      alt="Background"
+      className="w-full h-full object-cover"
+    />
   </div>
 
+  {/* Main content */}
   <div className="relative z-20 max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-8 text-black">
+    {/* Left quote */}
     <div className="md:col-span-1 text-center md:text-left flex items-center justify-center">
-      <p className="text-lg leading-relaxed max-w-sm">Botany isn’t loud. It doesn’t crash or flash. It waits. It teaches you to observe slowly — to notice the curve of a leaf, the way roots reach without eyes, the language of color in petals. In a world rushing to be noticed, plants ask nothing. And yet, they offer everything.</p>
+      <p className="text-lg leading-relaxed max-w-sm">
+        Botany isn’t loud. It doesn’t crash or flash. It waits. It teaches you to observe slowly — to notice the curve of a leaf, the way roots reach without eyes, the language of color in petals. In a world rushing to be noticed, plants ask nothing. And yet, they offer everything.
+      </p>
     </div>
 
+    {/* Center title */}
     <div className="md:col-span-1 flex flex-col items-center justify-center text-center">
       <h1 className="text-5xl font-extrabold"> </h1>
       <h1 className="text-5xl font-extrabold">Rooted &</h1>
       <h1 className="text-5xl font-extrabold">Wild</h1>
-      <p className="text-lg">A blog about botany.</p>
+      <p className="text-lg mt-4">A blog about botany.</p>
     </div>
 
+    {/* Right quote */}
     <div className="md:col-span-1 text-center md:text-right flex items-center justify-center">
-      <p className="text-lg leading-relaxed max-w-sm">In the cracks of pavement and along forgotten fences, plants grow anyway. They don’t need perfect conditions — just space, light, and a little time. Botany reminds us that life adapts. Even when ignored, green things find a way to bloom.</p>
+      <p className="text-lg leading-relaxed max-w-sm">
+        In the cracks of pavement and along forgotten fences, plants grow anyway. They don’t need perfect conditions — just space, light, and a little time. Botany reminds us that life adapts. Even when ignored, green things find a way to bloom.
+      </p>
     </div>
   </div>
-  <button onClick="{()" ="">{ document.getElementById("articles").scrollIntoView({ behavior: "smooth" }); }} className="mt-8 px-6 py-3 bg-[#A2A454] text-white font-semibold rounded-xl hover:bg-[#8c8b42] transition-colors duration-300">Scroll to Articles</button>
+
+  {/* Scroll Button */}
+  <button
+    onClick={() =>
+      document.getElementById("articles")?.scrollIntoView({ behavior: "smooth" })
+    }
+    className="relative z-20 mt-12 px-6 py-3 bg-[#A2A454] text-white font-semibold rounded-xl hover:bg-[#8c8b42] transition-colors duration-300"
+  >
+    Scroll to Articles
+  </button>
 </section>
+
 
 <section className="py-24">
   <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

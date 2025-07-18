@@ -26,3 +26,6 @@ p.text-xs.leading-5.text-primary-muted {
     border-color: #a2a454;
 }
 
+span {
+    font-family: 'Cormorant Infant';
+}

@@ -16,6 +16,7 @@ showToc: "false"
       <h1 className="text-5xl font-extrabold"> </h1>
       <h1 className="text-5xl font-extrabold">Rooted &</h1>
       <h1 className="text-5xl font-extrabold">Wild</h1>
+      <p className="text-lg">A blog about botany.</p>
     </div>
 
     <div className="md:col-span-1 text-center md:text-right flex items-center justify-center">

@@ -12,3 +12,6 @@
 .border-b {
     border-color: #a2a454 !important;
 }
+article {
+    border-color: #a2a454;
+}

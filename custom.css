@@ -8,6 +8,7 @@
     background: #f9f2e2 !important;
 }
 
-hr {
+/* Changes lines to green */
+.border-b {
     background-color: #a2a454 !important;
 }

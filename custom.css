@@ -15,3 +15,12 @@
 article {
     border-color: #a2a454;
 }
+
+/* Changes website footnotes to green */
+p.text-xs.leading-5.text-primary-muted {
+    color: #a2a454;
+}
+.mt-8.border-t.border-gray-900\/10.pt-8.sm\:mt-10.lg\:mt-12 {
+    border-color: #a2a454;
+}
+

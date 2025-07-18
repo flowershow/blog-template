@@ -196,7 +196,7 @@ OF NATURE
         <img
           src="/@blackberry-garance/blog-template/_r/-/assets/background-1.jpg"
           alt="Background"
-          className="w-full h-full object-cover opacity-30"
+          className="w-full h-full object-cover"
         />
       </div>
 

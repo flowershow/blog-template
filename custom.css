@@ -10,5 +10,5 @@
 
 /* Changes lines to green */
 .border-b {
-    background-color: #a2a454 !important;
+    border-color: #a2a454 !important;
 }

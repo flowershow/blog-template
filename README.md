@@ -185,56 +185,31 @@ OF NATURE
 
 </section>
 
-<section className="relative w-full h-screen bg-[#A2A454] flex items-center justify-center overflow-hidden">
 
-{/* Background Image Overlay */}
 
-<div className="absolute inset-0">
 
-<img src="https://test-blog-template.my.canva.site/_assets/media/3ec692eea663640d8ae6653d6a8056b7.png" alt="Botanical background" className="w-full h-full object-cover opacity-30" />
+    <section className="relative w-full min-h-screen bg-[#A2A454] flex items-center justify-center px-6 py-16 overflow-hidden">
+  {/* Top right vine */}
+  <img src="https://test-blog-template.my.canva.site/_assets/media/82e7465747156d0a4f8534643f228c68.png" alt="Vine top right" className="absolute top-0 right-0 w-1/3 max-w-md object-contain" />
 
-</div>
+  {/* Bottom left flowers */}
+  <img src="https://test-blog-template.my.canva.site/_assets/media/da8bd727aaee28320bb0f3efc46f3e86.png" alt="Orchid bottom left" className="absolute bottom-0 left-0 w-1/3 max-w-md object-contain" />
 
-  
+  <div className="relative z-10 max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-8 text-black">
+    {/* Left quote */}
+    <div className="md:col-span-1 text-center md:text-left flex items-center justify-center">
+      <p className="text-lg leading-relaxed max-w-sm">Botany isn’t loud. It doesn’t crash or flash. It waits. It teaches you to observe slowly — to notice the curve of a leaf, the way roots reach without eyes, the language of color in petals. In a world rushing to be noticed, plants ask nothing. And yet, they offer everything.</p>
+    </div>
 
-{/* Main Content */}
+    {/* Center title */}
+    <div className="md:col-span-1 flex flex-col items-center justify-center text-center">
+      <h1 className="text-5xl font-extrabold mb-2">Rooted &</h1>
+      <h1 className="text-5xl font-extrabold">Wild</h1>
+    </div>
 
-<div className="relative z-10 max-w-4xl px-6 py-12 text-black space-y-12">
-
-<h1 className="text-6xl font-bold tracking-tight leading-tight">
-
-Rooted <br />
-
-<span className="text-6xl">&</span> <br />
-
-Wild
-
-</h1>
-
-  
-
-<div className="grid gap-8 md:grid-cols-2">
-
-{/* First quote */}
-
-<blockquote className="bg-white/70 backdrop-blur-sm p-6 rounded-xl shadow-md">
-
-<p className="text-lg leading-relaxed">Botany isn’t loud. It doesn’t crash or flash. It waits. It teaches you to observe slowly — to notice the curve of a leaf, the way roots reach without eyes, the language of color in petals. In a world rushing to be noticed, plants ask nothing. And yet, they offer everything.</p>
-
-</blockquote>
-
-  
-
-{/* Second quote */}
-
-<blockquote className="bg-white/70 backdrop-blur-sm p-6 rounded-xl shadow-md">
-
-<p className="text-lg leading-relaxed">In the cracks of pavement and along forgotten fences, plants grow anyway. They don’t need perfect conditions — just space, light, and a little time. Botany reminds us that life adapts. Even when ignored, green things find a way to bloom.</p>
-
-</blockquote>
-
-</div>
-
-</div>
-
+    {/* Right quote */}
+    <div className="md:col-span-1 text-center md:text-right flex items-center justify-center">
+      <p className="text-lg leading-relaxed max-w-sm">In the cracks of pavement and along forgotten fences, plants grow anyway. They don’t need perfect conditions — just space, light, and a little time. Botany reminds us that life adapts. Even when ignored, green things find a way to bloom.</p>
+    </div>
+  </div>
 </section>

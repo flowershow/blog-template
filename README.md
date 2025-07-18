@@ -9,7 +9,7 @@ showToc: "false"
   </div>
 
   {/* Main content */}
-  <div className="relative z-10 max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-8 text-black">
+  <div className="relative z-20 max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-8 text-black">
     {/* Left quote */}
     <div className="md:col-span-1 text-center md:text-left flex items-center justify-center">
       <p className="text-lg leading-relaxed max-w-sm">Botany isn’t loud. It doesn’t crash or flash. It waits. It teaches you to observe slowly — to notice the curve of a leaf, the way roots reach without eyes, the language of color in petals. In a world rushing to be noticed, plants ask nothing. And yet, they offer everything.</p>

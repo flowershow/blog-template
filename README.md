@@ -25,13 +25,13 @@ showToc: "false"
 
 <div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
 
-<span className="text-lime-600 font-medium mb-3 block">Jun 03, 2025</span>
+<span className="text-[#A2A454] font-medium mb-3 block">Jun 03, 2025</span>
 
 <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">Urban Botany: How to Identify Plants Growing Through Sidewalk Cracks</h4>
 
 <p className="text-gray-500 leading-6 mb-10">Because nature doesn’t care about your concrete.</p>
 
-<a href="/blog/Urban Botany.md" className="cursor-pointer text-lg text-lime-600 font-semibold"> Read more.. </a>
+<a href="/blog/Urban Botany.md" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
 
 </div>
 
@@ -51,13 +51,13 @@ showToc: "false"
 
 <div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
 
-<span className="text-lime-600 font-medium mb-3 block">May 28, 2025</span>
+<span className="text-[#A2A454] font-medium mb-3 block">May 28, 2025</span>
 
 <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">The Ultimate Guide to Watering — It’s Not Just About the Schedule</h4>
 
 <p className="text-gray-500 leading-6 mb-10">Because plants don’t wear watches, and neither should your watering can.</p>
 
-<a href="#" className="cursor-pointer text-lg text-lime-600 font-semibold"> Read more.. </a>
+<a href="#" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
 
 </div>
 
@@ -77,13 +77,13 @@ showToc: "false"
 
 <div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-gray-50">
 
-<span className="text-lime-600 font-medium mb-3 block">Mar 15, 2025</span>
+<span className="text-[#A2A454] font-medium mb-3 block">Mar 15, 2025</span>
 
 <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">10 Wildflowers You’re Walking Past Without Noticing</h4>
 
 <p className="text-gray-500 leading-6 mb-10">10 wildflowers hiding in plain sight — learn their names and start noticing the beauty blooming underfoot.</p>
 
-<a href="#" className="cursor-pointer text-lg text-lime-600 font-semibold"> Read more.. </a>
+<a href="#" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
 
 </div>
 

@@ -194,7 +194,7 @@ OF NATURE
       {/* Custom full background image */}
       <div className="absolute inset-0">
         <img
-          src="/your-background.jpg" // replace with your image path
+          src="/@blackberry-garance/blog-template/_r/-/assets/background-1.jpg" // replace with your image path
           alt="Background"
           className="w-full h-full object-cover opacity-30"
         />

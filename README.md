@@ -49,7 +49,7 @@ showToc: "false"
 </section>
 
 
-<section className="py-24">
+<section id="articles" className="py-24">
   <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <h2 className="font-manrope text-4xl font-bold text-gray-900 text-center mb-16">My latest articles</h2>
 

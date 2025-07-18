@@ -75,5 +75,6 @@ showToc: "false"
         </div>
       </div>
     </div>
+    <a href="javascript:;" class="cursor-pointer border border-gray-300 shadow-sm rounded-full py-3.5 px-7 w-52 flex justify-center items-center text-gray-900 font-semibold mx-auto transition-all duration-300 hover:bg-gray-100">View All</a>
   </div>
 </section>

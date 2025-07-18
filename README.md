@@ -74,7 +74,7 @@ showToc: "false"
           <a href="#" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
         </div>
       </div>
-      <a href="javascript:;" className="mt-16 cursor-pointer border border-gray-300 shadow-sm rounded-full py-3.5 px-7 w-52 flex justify-center items-center text-gray-900 font-semibold mx-auto transition-all duration-300 hover:bg-gray-100">View All</a>
     </div>
+    <a href="javascript:;" className="mt-16 cursor-pointer border border-gray-300 shadow-sm rounded-full py-3.5 px-7 w-52 flex justify-center items-center text-gray-900 font-semibold mx-auto transition-all duration-300 hover:bg-gray-100">View All</a>
   </div>
 </section>

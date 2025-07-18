@@ -184,3 +184,57 @@ OF NATURE
 </div>
 
 </section>
+
+<section className="relative w-full h-screen bg-[#A2A454] flex items-center justify-center overflow-hidden">
+
+{/* Background Image Overlay */}
+
+<div className="absolute inset-0">
+
+<img src="https://test-blog-template.my.canva.site/_assets/media/3ec692eea663640d8ae6653d6a8056b7.png" alt="Botanical background" className="w-full h-full object-cover opacity-30" />
+
+</div>
+
+  
+
+{/* Main Content */}
+
+<div className="relative z-10 max-w-4xl px-6 py-12 text-black space-y-12">
+
+<h1 className="text-6xl font-bold tracking-tight leading-tight">
+
+Rooted <br />
+
+<span className="text-6xl">&</span> <br />
+
+Wild
+
+</h1>
+
+  
+
+<div className="grid gap-8 md:grid-cols-2">
+
+{/* First quote */}
+
+<blockquote className="bg-white/70 backdrop-blur-sm p-6 rounded-xl shadow-md">
+
+<p className="text-lg leading-relaxed">Botany isn’t loud. It doesn’t crash or flash. It waits. It teaches you to observe slowly — to notice the curve of a leaf, the way roots reach without eyes, the language of color in petals. In a world rushing to be noticed, plants ask nothing. And yet, they offer everything.</p>
+
+</blockquote>
+
+  
+
+{/* Second quote */}
+
+<blockquote className="bg-white/70 backdrop-blur-sm p-6 rounded-xl shadow-md">
+
+<p className="text-lg leading-relaxed">In the cracks of pavement and along forgotten fences, plants grow anyway. They don’t need perfect conditions — just space, light, and a little time. Botany reminds us that life adapts. Even when ignored, green things find a way to bloom.</p>
+
+</blockquote>
+
+</div>
+
+</div>
+
+</section>

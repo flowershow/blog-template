@@ -38,14 +38,7 @@ showToc: "false"
   </div>
 
   {/* Scroll Button */}
-  <button
-    onClick={() =>
-      document.getElementById("articles")?.scrollIntoView({ behavior: "smooth" })
-    }
-    className="relative z-20 mt-12 px-6 py-3 bg-[#A2A454] text-white font-semibold rounded-xl hover:bg-[#8c8b42] transition-colors duration-300"
-  >
-    Scroll to Articles
-  </button>
+  <button onClick="{()" ="">document.getElementById("articles")?.scrollIntoView({ behavior: "smooth" }) } className="mt-16 cursor-pointer border border-[#A2A454] shadow-sm rounded-full py-3.5 px-7 w-52 flex justify-center items-center text-gray-900 font-semibold mx-auto transition-all duration-300 hover:bg-[#DAD6B0]" > Scroll to Articles</button>
 </section>
 
 

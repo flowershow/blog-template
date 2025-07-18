@@ -15,26 +15,28 @@ showToc: "false"
 
 {/* Blog Card 1 */}
 
-<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl">
+<div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl transition-all duration-300 hover:bg-[#DAD6B0]">
 
-<div className="flex items-center">
+  <div className="flex items-center">
+    <img
+      src="/@blackberry-garance/blog-template/_r/-/assets/urban-botany.jpg"
+      alt="urban botany"
+      className="rounded-t-2xl w-full object-cover"
+    />
+  </div>
 
-<img src="/@blackberry-garance/blog-template/_r/-/assets/urban-botany.jpg" alt="urban botany" className="rounded-t-2xl w-full object-cover" />
-
-</div>
-
-<div className="p-4 lg:p-6 transition-all duration-300 rounded-b-2xl group-hover:bg-[#DAD6B0]">
-
-<span className="text-[#A2A454] font-medium mb-3 block">Jun 03, 2025</span>
-
-<h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">Urban Botany: How to Identify Plants Growing Through Sidewalk Cracks</h4>
-
-<p className="text-gray-500 leading-6 mb-10">Because nature doesn’t care about your concrete.</p>
-
-<a href="/blog/Urban Botany.md" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
-
-</div>
-
+  <div className="p-4 lg:p-6 rounded-b-2xl">
+    <span className="text-[#A2A454] font-medium mb-3 block">Jun 03, 2025</span>
+    <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">
+      Urban Botany: How to Identify Plants Growing Through Sidewalk Cracks
+    </h4>
+    <p className="text-gray-500 leading-6 mb-10">
+      Because nature doesn’t care about your concrete.
+    </p>
+    <a href="/blog/Urban Botany.md" className="cursor-pointer text-lg text-[#A2A454] font-semibold">
+      Read more..
+    </a>
+  </div>
 </div>
 
   

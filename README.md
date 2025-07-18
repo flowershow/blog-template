@@ -16,11 +16,9 @@ showToc: "false"
     </div>
 
     {/* Center title */}
-    <div className="md:col-span-1 flex flex-col items-center justify-center text-center">
-            <h1 className="text-5xl font-extrabold md-2"> </h1>
-            <h1 className="text-5xl font-extrabold">Rooted &</h1>
-            <h1 className="text-5xl font-extrabold">Wild</h1>
-
+    <div className="md:col-span-1 flex flex-col items-center justify-center text-center min-h-[200px]">
+      <h1 className="text-5xl font-extrabold">Rooted &</h1>
+      <h1 className="text-5xl font-extrabold">Wild</h1>
     </div>
 
     {/* Right quote */}

@@ -9,7 +9,5 @@
 }
 
 hr {
-    border-color: #a2a454 !important;
-    color: #a2a454 !important;
-    border: #a2a454 !important;
+    background-color: #a2a454 !important;
 }

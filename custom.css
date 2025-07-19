@@ -32,5 +32,5 @@ span {
 
 h1 {
     font-family: 'Cinzel Decorative';
-    font-weight: 400;
+    font-weight: 400 !important;
 }

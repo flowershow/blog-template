@@ -24,8 +24,8 @@ showToc: "false"
     {/* Center title */}
     <div className="md:col-span-1 flex flex-col items-center justify-center text-center">
       <h1 className="text-5xl font-extrabold"> </h1>
-      <h1 className="text-5xl font-extrabold">Rooted &</h1>
-      <h1 className="text-5xl font-extrabold">Wild</h1>
+      <h1 className="text-5xl">Rooted &</h1>
+      <h1 className="text-5xl">Wild</h1>
       <p className="text-lg mt-4">A blog about botany.</p>
     </div>
 

@@ -13,7 +13,7 @@ showToc: "false"
   </div>
 
   {/* Main content */}
-  <div className="relative z-20 max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-8 text-black">
+  <div className="relative z-20 max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-8 text-[#363607]">
     {/* Left quote */}
     <div className="md:col-span-1 text-center md:text-left flex items-center justify-center">
       <p className="text-lg leading-relaxed max-w-sm">

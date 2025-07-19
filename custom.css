@@ -38,3 +38,7 @@ h1 {
     font-family: 'Cinzel Decorative';
     font-weight: 400 !important;
 }
+
+header.relative.bg-neutral-50 {
+    background-color: crimson;
+}

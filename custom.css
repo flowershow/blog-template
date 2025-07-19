@@ -42,3 +42,7 @@ h1 {
 header.relative.bg-neutral-50 {
     background-color: #DAD6B0 !important;
 }
+
+h1.text-pretty.mt-24.text-5xl.font-semibold.tracking-tight.text-primary-strong.sm\:mt-10.sm\:text-6xl {
+    font-family: 'Cormorant Infant';
+}

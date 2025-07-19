@@ -30,7 +30,7 @@ hr {
     border-color: #a2a454 !important;
 }
 
-h1, span {
+span {
     font-family: 'Cinzel Decorative';
     font-weight: 400 !important;
     color: #363607 !important;
@@ -40,9 +40,7 @@ header.relative.bg-neutral-50 {
     background-color: #DAD6B0 !important;
 }
 
-h1.text-pretty.mt-24.text-5xl.font-semibold.tracking-tight.text-primary-strong.sm\:mt-10.sm\:text-6xl {
+h1 {
     font-family: 'Cormorant Infant';
-}
-h1.text-\[3rem\].font-semibold.leading-\[3\.25rem\].tracking-tight.text-primary-emphasis.text-primary-strong.sm\:text-\[3\.5rem\].sm\:leading-\[3\.75rem\] {
-    font-family: 'Cormorant Infant';
+    color: #363607 !important;
 }

@@ -30,11 +30,7 @@ hr {
     border-color: #a2a454 !important;
 }
 
-span {
-    font-family: 'Modern Antiqua';
-}
-
-h1 {
+h1, span {
     font-family: 'Cinzel Decorative';
     font-weight: 400 !important;
     color: #363607 !important;

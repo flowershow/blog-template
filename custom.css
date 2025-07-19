@@ -15,19 +15,19 @@
     border-color: #a2a454 !important;
 }
 article {
-    border-color: #a2a454;
+    border-color: #a2a454 !important;
 }
 
 /* Changes website footnotes to green */
 p.text-xs.leading-5.text-primary-muted {
-    color: #a2a454;
+    color: #a2a454 !important;
 }
 .mt-8.border-t.border-gray-900\/10.pt-8.sm\:mt-10.lg\:mt-12 {
-    border-color: #a2a454;
+    border-color: #a2a454 !important;
 }
 
 hr {
-    border-color: #a2a454;
+    border-color: #a2a454 !important;
 }
 
 span {

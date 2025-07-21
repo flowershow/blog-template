@@ -70,7 +70,7 @@ showToc: "false"
           <span className="text-[#A2A454] font-medium mb-3 block">May 28, 2025</span>
           <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">The Ultimate Guide to Watering — It’s Not Just About the Schedule</h4>
           <p className="text-gray-500 leading-6 mb-10">Because plants don’t wear watches, and neither should your watering can.</p>
-          <a href="https://my.flowershow.app/@blackberry-garance/blog-template/_r/-/blog/The Ultimate Guide to Watering" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
+          <a href="https://my.flowershow.app/@blackberry-garance/blog-template/blog/The+Ultimate+Guide+to+Watering" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
         </div>
       </div>
 
@@ -85,10 +85,10 @@ showToc: "false"
           <span className="text-[#A2A454] font-medium mb-3 block">Mar 15, 2025</span>
           <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">10 Wildflowers You’re Walking Past Without Noticing</h4>
           <p className="text-gray-500 leading-6 mb-10">10 wildflowers hiding in plain sight — learn their names and start noticing the beauty blooming underfoot.</p>
-          <a href="https://my.flowershow.app/@blackberry-garance/blog-template/_r/-/blog/10 Wildflowers" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
+          <a href="https://my.flowershow.app/@blackberry-garance/blog-template/blog/10+Wildflowers" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
         </div>
       </div>
     </div>
-    <a href="/blog/README" className="mt-16 cursor-pointer border border-[#A2A454] shadow-sm rounded-full py-3.5 px-7 w-52 flex justify-center items-center text-gray-900 font-semibold mx-auto transition-all duration-300 hover:bg-[#DAD6B0]">View All</a>
+    <a href="https://my.flowershow.app/@blackberry-garance/blog-template/blog" className="mt-16 cursor-pointer border border-[#A2A454] shadow-sm rounded-full py-3.5 px-7 w-52 flex justify-center items-center text-gray-900 font-semibold mx-auto transition-all duration-300 hover:bg-[#DAD6B0]">View All</a>
   </div>
 </section>

@@ -2,6 +2,7 @@
 title: About Rooted & Wild
 description: Welcome to Rooted & Wild — a botanist’s journal of green encounters, both indoors and out.
 image: /assets/oliver-james-photo.jpg
+showHero: True
 ---
 I’m a botanist with muddy boots and soil-stained hands, equally at home hiking through wild meadows as I am tending to a row of sun-seeking houseplants on my windowsill. This blog is my way of documenting the quiet joy of paying attention to the natural world — one leaf, sprout, and flower at a time.
 

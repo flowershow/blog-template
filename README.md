@@ -55,7 +55,7 @@ showToc: "false"
           <span className="text-[#A2A454] font-medium mb-3 block">Jun 03, 2025</span>
           <h4 className="text-xl text-gray-900 font-medium leading-8 mb-5">Urban Botany: How to Identify Plants Growing Through Sidewalk Cracks</h4>
           <p className="text-gray-500 leading-6 mb-10">Because nature doesn’t care about your concrete.</p>
-          <a href="https://my.flowershow.app/@blackberry-garance/blog-template/_r/-/blog/Urban Botany" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
+          <a href="/@blackberry-garance/blog-template/_r/-/blog/Urban Botany.md" className="cursor-pointer text-lg text-[#A2A454] font-semibold"> Read more.. </a>
         </div>
       </div>
 

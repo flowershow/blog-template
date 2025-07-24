@@ -41,7 +41,7 @@ header.relative.bg-neutral-50 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Cormorant Infant';
+    font-family: 'Cormorant Infant' !important;
     color: #363607 !important;
 }
 

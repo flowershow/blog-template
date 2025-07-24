@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cinzel {
-  font-family: 'Cinzel Decorative';
+  font-family: 'Cinzel Decorative' !important;
 }
 
 svg.lucide.lucide-menu.size-6.block.group-data-\[open\]\:hidden {
@@ -55,4 +55,5 @@ svg.lucide.lucide-menu.size-6.block.group-data-\[open\]\:hidden {
 
 p, li {
     font-family: Inter
+    color: #363607 !important;
 }

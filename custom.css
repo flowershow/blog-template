@@ -53,6 +53,6 @@ svg.lucide.lucide-menu.size-6.block.group-data-\[open\]\:hidden {
     color: #363607;
 }
 
-p {
+p, li {
     font-family: Inter
 }

@@ -6,7 +6,7 @@ showToc: "false"
   {/* Background image */}
   <div className="absolute inset-0">
     <img
-      src="/@blackberry-garance/blog-template/_r/-/assets/background-1.jpg"
+      src="/assets/background-1.jpg"
       alt="Background"
       className="w-full h-full object-cover"
     />
@@ -48,7 +48,7 @@ showToc: "false"
 
       <div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl transition-all duration-300 hover:bg-[#DAD6B0]">
         <div className="flex items-center">
-          <img src="/@blackberry-garance/blog-template/_r/-/assets/urban-botany.jpg" alt="urban botany" className="rounded-t-2xl w-full object-cover" />
+          <img src="/assets/urban-botany.jpg" alt="urban botany" className="rounded-t-2xl w-full object-cover" />
         </div>
 
         <div className="p-4 lg:p-6 rounded-b-2xl">
@@ -63,7 +63,7 @@ showToc: "false"
 
       <div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl transition-all duration-300 hover:bg-[#DAD6B0]">
         <div className="flex items-center">
-          <img src="/@blackberry-garance/blog-template/_r/-/assets/pexels-karolina-grabowska-4750274.jpg" alt="watering" className="rounded-t-2xl w-full object-cover" />
+          <img src="/assets/pexels-karolina-grabowska-4750274.jpg" alt="watering" className="rounded-t-2xl w-full object-cover" />
         </div>
 
         <div className="p-4 lg:p-6 rounded-b-2xl">
@@ -78,7 +78,7 @@ showToc: "false"
 
       <div className="group w-full max-lg:max-w-xl lg:w-1/3 border border-[#A2A454] rounded-2xl transition-all duration-300 hover:bg-[#DAD6B0]">
         <div className="flex items-center">
-          <img src="/@blackberry-garance/blog-template/_r/-/assets/wild-flowers.jpg" alt="wild flowers" className="rounded-t-2xl w-full object-cover" />
+          <img src="/assets/wild-flowers.jpg" alt="wild flowers" className="rounded-t-2xl w-full object-cover" />
         </div>
 
         <div className="p-4 lg:p-6 rounded-b-2xl">

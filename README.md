@@ -16,9 +16,7 @@ showToc: "false"
   <div className="relative z-20 max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-8 text-[#363607]">
     {/* Left quote */}
     <div className="md:col-span-1 text-center md:text-left flex items-center justify-center">
-      <p className="text-lg leading-relaxed max-w-sm">
-        Botany isn’t loud. It doesn’t crash or flash. It waits. It teaches you to observe slowly — to notice the curve of a leaf, the way roots reach without eyes, the language of color in petals. In a world rushing to be noticed, plants ask nothing. And yet, they offer everything.
-      </p>
+      <p className="text-lg leading-relaxed max-w-sm">Botany isn’t loud. It doesn’t crash or flash. It waits. It teaches you to observe slowly — to notice the curve of a leaf, the way roots reach without eyes, the language of color in petals. In a world rushing to be noticed, plants ask nothing. And yet, they offer everything.</p>
     </div>
 
     {/* Center title */}
@@ -31,9 +29,7 @@ showToc: "false"
 
     {/* Right quote */}
     <div className="md:col-span-1 text-center md:text-right flex items-center justify-center">
-      <p className="text-lg leading-relaxed max-w-sm">
-        In the cracks of pavement and along forgotten fences, plants grow anyway. They don’t need perfect conditions — just space, light, and a little time. Botany reminds us that life adapts. Even when ignored, green things find a way to bloom.
-      </p>
+      <p className="text-lg leading-relaxed max-w-sm">In the cracks of pavement and along forgotten fences, plants grow anyway. They don’t need perfect conditions — just space, light, and a little time. Botany reminds us that life adapts. Even when ignored, green things find a way to bloom.</p>
     </div>
   </div>
 </section>

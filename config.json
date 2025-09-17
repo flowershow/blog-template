@@ -19,6 +19,5 @@
       }
     ]
   },
-  "showSidebar": true,
-  "theme": "letterpress@0.0.2"
+  "showSidebar": true
 }

@@ -20,5 +20,9 @@
     ]
   },
   "showSidebar": true,
-  "theme": "superstack@0.0.3"
+  "theme": {
+    "theme": "superstack@0.0.3",
+    "defaultMode": "light",
+    "showModeSwitch": true
+  }
 }

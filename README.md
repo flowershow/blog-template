@@ -2,7 +2,7 @@
 title: Code & Coffee Breaks
 description: Sip, code, repeat—bite-sized reflections on leveling up as a developer, each brewed alongside a fresh cup and a quick café review.
 showHero: true
-image: /assets/brew.png
+image: /assets/pomodoro.png
 showToc: false
 showSidebar: false
 ---

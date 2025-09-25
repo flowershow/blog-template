@@ -5,11 +5,6 @@ showHero: true
 image: /assets/brew.png
 showToc: false
 showSidebar: false
-cta:
-  - label: About me
-    href: "#"
-  - label: Contact me →
-    href: "#"
 ---
 
 <List dir="/blog" fields={["title", "description", "image", "date", "authors"]} pageSize={6}/>

@@ -7,4 +7,4 @@ showToc: false
 showSidebar: false
 ---
 
-<List dir="/blog" fields={["title", "description", "image", "date"]} pageSize={6}/>
+<List dir="/blog" fields={["title", "description", "image", "date", "authors"]} pageSize={6}/>

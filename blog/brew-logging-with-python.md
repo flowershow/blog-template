@@ -3,7 +3,7 @@ title: Brew Logging with Python
 description: Sip, script, repeat—because the best way to taste your progress is to track it.
 authors: [julie]
 date: 2025-05-19
-image: /assets/hero.png
+image: /assets/brew.png
 ---
 
 > [!note]  

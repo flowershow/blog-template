@@ -20,5 +20,5 @@
     ]
   },
   "showSidebar": true,
-  "theme": "letterpress"
+  "theme": "letterpress@v.0.0.4"
 }

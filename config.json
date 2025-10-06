@@ -19,5 +19,8 @@
       }
     ]
   },
-  "showSidebar": true
+  "showSidebar": true,
+  "theme": {
+    "theme": "lessflowery"
+  }
 }

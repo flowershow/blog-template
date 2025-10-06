@@ -21,7 +21,7 @@
   },
   "showSidebar": true,
   "theme": {
-    "theme": "superstack",
+    "theme": "superstack@v0.0.3",
     "defaultMode": "light",
     "showModeSwitch": true
   }

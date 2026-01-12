@@ -21,6 +21,6 @@
   },
   "showSidebar": true,
   "theme": {
-    "theme": "lessflowery"
+    "theme": "lessflowery@latest"
   }
 }
